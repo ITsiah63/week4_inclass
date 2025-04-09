@@ -52,7 +52,7 @@ function countdown() {
 
       }
    }
-   else (timeLeft != 0);{
+   else {
       timeLeft--;
       quizClock.value = timeLeft
    }
